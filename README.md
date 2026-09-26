@@ -1,5 +1,5 @@
 # DTM
-# EP.03 | Punktrasterkarten
+## EP.03 | Punktrasterkarten
 EP.03 | Punktrasterkarten
 
 EP.04 | Value-By-Alpha Mapping
