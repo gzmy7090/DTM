@@ -20,6 +20,7 @@ In der Übung wurde ein Geländemodell im Legodesign erstellt. Dazu wurden die H
 ## EP.09 | 3D-Gebäudemodelle
 
 in QGis gibt es zwei Möglichkeiten um Gebäude räumlich Darzustellen, sofern der Datensatz Höheninformationen für die einzelnen Objekte hinterlegt hat.
+
 Bei 3D Darstellungen öffnet sich ein eigenes Fenster, bei dem man mit der Darstellung auf besondere Weise interagieren kann.
 
 <img width="1003" height="563" alt="3D_Bild" src="https://github.com/user-attachments/assets/a38a5e05-0995-4abb-8ab0-7f595f595b9a" />
