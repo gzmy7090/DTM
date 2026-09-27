@@ -1,6 +1,10 @@
 # DTM
 ## EP.03 | Punktrasterkarten
 
+In Punktrasterkarten werden die räumliche Informationen vieler Objekte auf einen gleichmäßigen Gitter angezeigt. Das vereinfacht die Darstellung, da man an statt den kleinen Einzelobjekten größere Polygone erhält. Durch deren färbung erkennt man die Dichteverteilung der Objekte.
+
+<img width="3507" height="2480" alt="kirschen_git" src="https://github.com/user-attachments/assets/2bc9c338-74dc-42d9-a1f5-210e297bbebd" />
+
 ## EP.04 | Value-By-Alpha Mapping
 
 <img width="4960" height="3507" alt="value" src="https://github.com/user-attachments/assets/5e124326-430e-4556-8ac6-44c5bd93c3e6" />
