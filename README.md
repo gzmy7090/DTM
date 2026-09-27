@@ -7,6 +7,9 @@ In Punktrasterkarten werden die räumliche Informationen vieler Objekte auf eine
 
 ## EP.04 | Value-By-Alpha Mapping
 
+Eine Value-By-Alpha Karte vermittelt zwei Informationen durch Farbe und Schattierung. In diesem Fall wurden Wahlergebnisse verwendet. Die Farbe gibt Auskunft um welche Partei es sich handelt, die Schattierung deren Anteil an 
+gesamt Stimmen.
+
 <img width="4960" height="3507" alt="value" src="https://github.com/user-attachments/assets/5e124326-430e-4556-8ac6-44c5bd93c3e6" />
 
 ## EP.05 | Ursprung-Ziel-Karten
