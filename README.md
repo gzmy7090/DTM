@@ -1,3 +1,6 @@
+
+
+
 # DTM
 ## EP.03 | Punktrasterkarten
 
@@ -23,6 +26,10 @@ In der Übung wurde ein Geländemodell im Legodesign erstellt. Dazu wurden die H
 ## EP.07 | Animation in QGIS
 
 ## EP.08 | Mesh-Daten
+
+Das GIF visualisiert die Wetterdaten des Orkans Kyrill, zur Darstellung wurde ein künstlerisches Design gewählt. 
+
+<img width="480" height="341" alt="wind_unter_10mb" src="https://github.com/user-attachments/assets/b9d7ca6c-af8f-4fdb-8f31-256400bd4bcf" />
 
 ## EP.09 | 3D-Gebäudemodelle
 
