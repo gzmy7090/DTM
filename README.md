@@ -25,6 +25,10 @@ In der Übung wurde ein Geländemodell im Legodesign erstellt. Dazu wurden die H
 
 ## EP.07 | Animation in QGIS
 
+Um eine Animation in QGis zu erstellen, benötigt man zeitliche Angaben in den Daten. Hierfür wurden als Beispiel die Geminiden verwendet. Für jede Sternschnuppe gibt es informationen wo und wann, sie zu sehen war, wodurch eine Nachbildung des Geminidenschauers entsteht.
+
+<img width="720" height="418" alt="sterne" src="https://github.com/user-attachments/assets/9dbecf8f-ec23-4c4c-9a52-41ed219dd6bc" />
+
 ## EP.08 | Mesh-Daten
 
 Das GIF visualisiert die Wetterdaten des Orkans Kyrill, zur Darstellung wurde ein künstlerisches Design gewählt. 
